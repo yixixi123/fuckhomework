@@ -1,3 +1,3 @@
-# fuckhomework
+#homework
 物联网作业库
 主要是上传每周的物联网作业相关代码和文件
